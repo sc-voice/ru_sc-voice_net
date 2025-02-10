@@ -1,5 +1,5 @@
 const EbtConfig = {
-  "appName": "EBT-Site",
+  "appName": "ru.sc-voice.net",
   "basePath": "/",
   "homePath": "#/wiki/toc",
   "tutorialPath": "#/wiki/tutorial/tutorial",
@@ -8,10 +8,10 @@ const EbtConfig = {
   },
   "footnotes": "Footnotes",
   "privacyLink": "#/wiki/privacy",
-  "monolingual": false,
+  "monolingual": "ru",
   "github": {
     "account": "sc-voice",
-    "repository": "ebt-site3"
+    "repository": "ru_sc-voice_net"
   }
 }
 
