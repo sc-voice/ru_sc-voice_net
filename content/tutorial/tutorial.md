@@ -8,54 +8,55 @@ order: 1
 warning: This file is required by the software and can be translated as required.
 ---
 
-${appName} lets you read and hear Early Buddhist Text (EBT) 
-content from [SuttaCentral.net](https://suttacentral.net).
-${appName} shows content using one or more _cards_:
+ru.sc-voice.net позволяет Вам читать и слушать ранние буддийские тексты (EBT).
+содержание с сайта [SuttaCentral.net](https://suttacentral.net).
+ru.sc-voice.net показывает контент, используя одну или несколько _карт_:
 
-* This page is on the <b>Wiki card</b>
-* <b>Search cards</b> let you search for EBT content 
-* <b>Sutta cards</b> let you read/play EBT content 
+* Эта страница находится на <b>Вики-карте</b>.
+* <b>Поисковые карты</b> позволяют Вам искать содержимое EBT.
+* <b>Карточки сутты</b> позволяют Вам читать/воспроизводить содержание EBT.
 
-In this tutorial, you will learn how to:
+В этом уроке Вы узнаете, как:
 
-<details><summary>1. Close a card</summary>
+<details><summary>1. Закрытие карты</summary>
 
-* Click the "-" to minimize a card.
-* Click the "X" to delete a card.
-
-</details>
-
-<details><summary>2. Open a card</summary>
-
-Each card has a <i>card tab</i> in the card tab bar. 
-Click a card tab to show that card.
+* Нажмите на "-", чтобы свернуть карточку.
+* Нажмите на "X", чтобы удалить карту.
 
 </details>
 
-<details><summary>3. Search for EBT content</summary>
-To find EBT content:
+<details><summary>2. Откройте карту</summary>
 
-* Enter a phrase (e.g., "root of suffering") 
-* Enter a sutta identifier (e.g., "thig1.1") in the search text field.
-* Click "Inspire Me" for a random search phrase
-
-Scan the search results and click on any result to see the actual sutta.
+У каждой карты есть <i>вкладка карты</i> в панели вкладок карты.
+Нажмите на вкладку карты, чтобы показать эту карту.
 
 </details>
 
-<details><summary>4. Play EBT content</summary>
-When the current card is a sutta, you can:
+<details><summary>3. Поиск содержимого EBT</summary>
+Чтобы найти материалы EBT:
 
-* Click any segment
-* Play the selected segment
-* Play to the end of the sutta
+* Введите фразу (например, "корень страданий")
+* Введите идентификатор сутты (например, "thig1.1") в текстовое поле поиска.
+* Нажмите "Inspire Me" для случайной поисковой фразы.
+
+Просканируйте результаты поиска и нажмите на любой результат, чтобы увидеть настоящую сутту.
+
+</details>
+
+<details><summary>4. Воспроизводите содержимое EBT</summary>.
+Если текущая карта - это сутта, Вы можете:
+
+* Нажмите на любой сегмент
+* Воспроизведите выбранный сегмент
+* Доиграйте до конца сутты
 
 </details>
 
-<details> <summary>5. Personalize settings</summary>
+<details> <summary>5. Персонализация настроек</summary>
 
-Settings are grouped into sections. 
-Click each section and explore your options.
+Настройки сгруппированы по разделам.
+Щелкните по каждому разделу и изучите свои возможности.
 
 </details>
+
 
