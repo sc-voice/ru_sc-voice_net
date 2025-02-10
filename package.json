@@ -1,0 +1,53 @@
+{
+  "name": "ebt-site3",
+  "version": "1.85.382",
+  "description": "Site template for EBT-Vue3 applications",
+  "main": "src/index.mjs",
+  "private": false,
+  "dependencies": {
+    "ebt-vue3": "^2.21.3",
+    "vue": "^3.4.21",
+    "vuetify": "^3.5.11",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "cmark-gfm": "^0.9.0",
+    "esm": "^3.2.25",
+    "json": "^11.0.0",
+    "markdown-it": "^13.0.1",
+    "markdown-it-footnote": "^3.0.3",
+    "vite": "^5.2.4",
+    "vite-plugin-vuetify": "^2.0.3",
+    "vue-cli-plugin-vuetify": "~2.5.1"
+  },
+  "scripts": {
+    "app:commit": "node_modules/ebt-vue3/scripts/app-commit.sh",
+    "app:dist": "node_modules/ebt-vue3/scripts/app-dist.sh",
+    "app:html": "node_modules/ebt-vue3/scripts/app-html.sh",
+    "app:pages": "node_modules/ebt-vue3/scripts/app-pages.sh",
+    "app:publish": "node_modules/ebt-vue3/scripts/app-publish.sh",
+    "app:version": "node node_modules/ebt-vue3/scripts/app-version.cjs",
+    "update:vuetify": "node_modules/ebt-vue3/scripts/app-update-vuetify",
+    "dev": "vite",
+    "serve": "vite preview",
+    "preview": "vite preview",
+    "vite": "vite",
+    "vite:build": "vite build",
+    "push-action": "node_modules/ebt-vue3/scripts/app-push-action.sh",
+    "schedule-action": "node_modules/ebt-vue3/scripts/app-schedule-action.sh"
+  },
+  "repository": {
+    "tag": "git"
+  },
+  "bin": {},
+  "keywords": [
+    "SuttaCentral",
+    "translation",
+    "EBT-Vue3",
+    "Voice"
+  ],
+  "author": "Karl Lew",
+  "homepage": "https://github.com/sc-voice/ebt-site3",
+  "license": "MIT"
+}
