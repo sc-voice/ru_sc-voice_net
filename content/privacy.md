@@ -1,41 +1,43 @@
 ---
-title: Privacy and licenses
-description: Information required by law
+title: Конфиденциальность и лицензии
+description: Информация, требуемая законом
 img: jason-dent-JFk0dVyvdvw-unsplash.png
 link: https://unsplash.com/photos/JFk0dVyvdvw
-img-alt: Privacy please
-category: 2. Other information
+img-alt: Конфиденциальность, пожалуйста
+category: 2. Другая информация
 order: 9999
 ---
 
-### Security and Privacy
+### Безопасность и конфиденциальность
 
-${appName} does not store any personally identifiable information.
+ru.sc-voice.net не хранит никакой персональной информации.
 
-### Data stored
+### Сохраненные данные
 
-For performance, 
-this website will store the following information *only* on your device
-using browser storage:
+Для производительности,
+Этот сайт будет хранить следующую информацию *только* на вашем устройстве
+Используя хранилище браузера:
 
-* text of EBT documents loaded
-* audio of EBT documents loaded
-* your website custom settings
+* текст загруженных документов EBT
+* аудиозапись загруженных документов EBT
+* Пользовательские настройки Вашего сайта
 
-### Licences
+### Лицензия
 
-**SC-Voice.net software**  
-${appName} application software is provided under the
-[MIT License](https://github.com/sc-voice/sc-voice_net/blob/main/LICENSE).
+**Программное обеспечениеSC-Voice.net**
+Прикладное программное обеспечение ru.sc-voice.net предоставляется под
+[Лицензия MIT] (https://github.com/sc-voice/sc-voice_net/blob/main/LICENSE).
 
-**SuttaCentral content**  
-Dhamma content provided by SuttaCentral is
-[licensed by SuttaCentral](https://suttacentral.net/licensing).
+**Содержание СуттаЦентральной**.
+Содержание Дхаммы, предоставляемое SuttaCentral, является
+[лицензировано SuttaCentral] (https://suttacentral.net/licensing).
 
-**Digital Pali Dictionary**
-Digital Pali Dictionary Content is [licensed by DPD](https://digitalpalidictionary.github.io/titlepage.html)
+**Цифровой словарь пали**.
+Содержание словаря Digital Pali является лицензированным [DPD](https://digitalpalidictionary.github.io/titlepage.html)
 
-**Other Dhamma content**
-License(s) for other Dhamma content are provided on a page-by-page basis.
+**Другое содержание Дхаммы**.
+Лицензия(и) на другие материалы Дхаммы предоставляется на каждой странице отдельно.
+
+
 
 

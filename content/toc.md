@@ -1,21 +1,22 @@
 ---
-title: Welcome
-description: SC-Voice.net template
+title: Добро пожаловать
+description: Шаблон SC-Voice.net
 img: scv-logo-wiki.png
-img-alt: sc-voice.net logo
+img-alt: логотип sc-voice.net
 order: 1
 ---
 
-### Welcome to ${appName}
+### Добро пожаловать в ru.sc-voice.net
 
-HTML content for your website is sourced from 
-files in the `content` directory.
+HTML-контент для Вашего сайта берется из
+файлы в директории `content`.
 
-Files:
+Файлы:
 
-* [Markdown files with suffix .md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) are converted automatically to HTML when committed to Github.
-* Use directories to group related files
-* `toc.md` files provide directory level information
+* [Markdown-файлы с суффиксом .md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) автоматически преобразуются в HTML при фиксации на Github.
+* Используйте каталоги для группировки связанных файлов
+* Файлы `toc.md` предоставляют информацию на уровне каталогов.
 
-See [sc-voice.net on Github](https://github.com/sc-voice/sc-voice_net/tree/main/content) for additional content examples.
-Copy and translate these files as you like.
+Дополнительные примеры содержания см. в [sc-voice.net на Github](https://github.com/sc-voice/sc-voice_net/tree/main/content).
+Скопируйте и переведите эти файлы по своему усмотрению.
+
